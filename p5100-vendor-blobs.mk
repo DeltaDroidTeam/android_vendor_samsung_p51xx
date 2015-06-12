@@ -20,4 +20,4 @@ PRODUCT_COPY_FILES := \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/p5100/system/lib/libsec-ril.so:system/lib/libsec-ril.so \
     $(LOCAL_PATH)/p5100/system/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    $(LOCAL_PATH)/p5110/system/lib/libril.so:system/lib/libril.so \
+    $(LOCAL_PATH)/p5100/system/lib/libril.so:system/lib/libril.so \
