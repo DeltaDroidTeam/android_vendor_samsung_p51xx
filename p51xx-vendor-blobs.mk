@@ -28,7 +28,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/common/system/etc/wifi/bcmdhd_p2p.bin:system/etc/wifi/bcmdhd_p2p.bin \
     $(LOCAL_PATH)/common/system/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin \
     $(LOCAL_PATH)/common/system/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
-    $(LOCAL_PATH)/common/system/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt
+    $(LOCAL_PATH)/common/system/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
+    $(LOCAL_PATH)/common/system/etc/gps.xml:system/etc/gps.xml \
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/common/system/lib/hw/camera.vendor.piranha.so:system/lib/hw/camera.vendor.piranha.so \
